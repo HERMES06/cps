@@ -1,4 +1,4 @@
-temp, sales
+temp,sales
 18,100
 25,187
 22,136
